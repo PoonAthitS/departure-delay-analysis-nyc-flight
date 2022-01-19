@@ -1,5 +1,5 @@
 # Departure Delay Analysis on NYC flight in 2013
-* Written by: [Poon Athit S. ](https://www.linkedin.com/in/athit-srimachand/)
+* Written by: [Poon Athit S. ](https://www.linkedin.com/in/athit-srimachand/), Ivy Wu, Carol Fan
 * Technologies: 
 ## 1. Introduction
 
