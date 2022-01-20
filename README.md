@@ -1,6 +1,6 @@
 # Departure Delay Analysis on NYC flight in 2013
 * Written by: [Poon Athit S. ](https://www.linkedin.com/in/athit-srimachand/), Ivy Wu, Carol Fan
-* Technologies: R, Tablaeu, tidyverse
+* Technologies: R, Tableau, tidyverse
 ## 1. Introduction
 
 ## 2. Key findings
