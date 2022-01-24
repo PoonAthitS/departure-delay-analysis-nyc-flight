@@ -7,6 +7,7 @@ This project aims to utilise R and [Tableau dashboard](https://public.tableau.co
 - Question 1: What is the time pattern of departure delay?
 - Question 2: What is the effect of weather on departure delay?
 - Question 3: What is the impact of carrier performance on departure delay?
+- Question 4: How does the plane type and age affect the departure delay?
 
 ## 2. Key findings
 The Port Authority of New York and New Jersey operates the 3 major airports including JFK, EWR and LGA in NYC. The analysis is focused on the historical data in 2013 and is aimed at understanding the general trends in flights and performance of NYC airports as to examine different factors related to departure delays. With all careful analysis and data exploration, recommendations are provided in three aspects to address the long departure delay issue in NYC airports.
