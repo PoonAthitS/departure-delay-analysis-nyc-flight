@@ -47,7 +47,7 @@ Building on results from the analysis in R, an interactive dashboard is develope
 * The analysis in R is developed in [R Markdown notebook](https://github.com/PoonAthitS/departure-delay-analysis-nyc-flight/blob/main/Departure_Delay_Analysis_on_NYC_flight_in_2013.Rmd)
 
 ### 4.2 Data
-The [NYC flight 2013 dataset](https://github.com/PoonAthitS/departure-delay-analysis-nyc-flight/tree/main/data) (nycflights13) collects 3,273,346 flights details from three NYC airports - John F. Kennedy International Airport (JFK), Newark Liberty International Airport (EWR) and LaGuardia Airport (LGA). It also captures information about weather, airports, airlines and planes.
+The [NYC flight 2013 dataset](https://github.com/PoonAthitS/departure-delay-analysis-nyc-flight/tree/main/data) (nycflights13) collects 327,346 flights details from three NYC airports - John F. Kennedy International Airport (JFK), Newark Liberty International Airport (EWR) and LaGuardia Airport (LGA). It also captures information about weather, airports, airlines and planes.
 
 ### To learn more about Poon Athit S., visit his [LinkedIn profile](https://www.linkedin.com/in/athit-srimachand/)
 
