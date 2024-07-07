@@ -41,12 +41,7 @@ Tableau public dashboard link: [Departure Delay Analysis on NYC flight in 2013](
 Building on results from the analysis in R, an interactive dashboard is developed to enable exploration of the data and extract insights that would be the most important to communicate in the context of problems. This dashboard covers all time pattern, effect of weather and impact of carrier performance toward the departure delay.
 ## 4. About the programming
 
-### 4.1 Files
-* The report of R analysis is knitted in [HTML report](https://rawcdn.githack.com/PoonAthitS/departure-delay-analysis-nyc-flight/27efc37f3a1936f8213df58c3b463ea6df6b7253/Departure_Delay_Analysis_on_NYC_flight_in_2013.html)
-* Tableau dashboard is pulished in [Tableau public link](https://public.tableau.com/views/DepartureDelayAnalysisonNYCflightin2013/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
-* The analysis in R is developed in [R Markdown notebook](https://github.com/PoonAthitS/departure-delay-analysis-nyc-flight/blob/main/Departure_Delay_Analysis_on_NYC_flight_in_2013.Rmd)
-
-### 4.2 Data
+### Data
 The [NYC flight 2013 dataset](https://github.com/PoonAthitS/departure-delay-analysis-nyc-flight/tree/main/data) (nycflights13) collects 327,346 flights details from three NYC airports - John F. Kennedy International Airport (JFK), Newark Liberty International Airport (EWR) and LaGuardia Airport (LGA). It also captures information about weather, airports, airlines and planes.
 
 ### To learn more about Poon Athit S., visit his [LinkedIn profile](https://www.linkedin.com/in/athit-srimachand/)
