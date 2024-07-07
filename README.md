@@ -3,7 +3,7 @@
 * Technologies: R, Tableau, tidyverse
 
 ## 1. Introduction
-This project aims to utilise R and [Tableau dashboard](https://public.tableau.com/views/DepartureDelayAnalysisonNYCflightin2013/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link) to visualize the New York city flight dataset in 2013 and gain insights regarding how to improve departure delay, which is one of the most addressed problems faced by all stakeholders within the supply chain of air travel. We believe the four most critical factors - **time, weather, planes (age and type) and carrier** - entail departure delays. To quantify, we choose different indicators of departure delay to visualize, in terms of **average delay time (in minutes)**, **delay occurrences**, and **departure delay percentage**. Therefore, the analysis will provide the answers to the following questions:
+This project aims to utilise R and Tableau Dashboard to visualize the New York city flight dataset in 2013 and gain insights regarding how to improve departure delay, which is one of the most addressed problems faced by all stakeholders within the supply chain of air travel. We believe the four most critical factors - **time, weather, planes (age and type) and carrier** - entail departure delays. To quantify, we choose different indicators of departure delay to visualize, in terms of **average delay time (in minutes)**, **delay occurrences**, and **departure delay percentage**. Therefore, the analysis will provide the answers to the following questions:
 - Question 1: What is the time pattern of departure delay?
 - Question 2: What is the effect of weather on departure delay?
 - Question 3: What is the impact of carrier performance on departure delay?
@@ -34,9 +34,7 @@ Significant meteorological conditions might cause departure delays. As indicated
 Although it is impossible to alter the weather, an upgrade in the runway lighting system might be useful to withstand the low visibility conditions resulting from fog or heavy rainfall. Furthermore, it is always better to get ready for service resumption when the weather becomes normal again. It is suggested that Airlines should always update their weather forecasting techniques or tools so that they can deal with the aftermath as soon as possible to minimize the flight departure delay time.
 
 ## 3. Tableau Dashboard
-<img src="https://github.com/PoonAthitS/departure-delay-analysis-nyc-flight/blob/main/IMAGES/Tableau%20dashboard.PNG?raw=true" width="550">
-
-Tableau public dashboard link: [Departure Delay Analysis on NYC flight in 2013](https://public.tableau.com/views/DepartureDelayAnalysisonNYCflightin2013/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link) <br /> 
+<img src="https://github.com/PoonAthitS/departure-delay-analysis-nyc-flight/blob/main/IMAGES/Tableau%20dashboard.PNG?raw=true" width="550"> 
 
 Building on results from the analysis in R, an interactive dashboard is developed to enable exploration of the data and extract insights that would be the most important to communicate in the context of problems. This dashboard covers all time pattern, effect of weather and impact of carrier performance toward the departure delay.
 ## 4. About the programming
